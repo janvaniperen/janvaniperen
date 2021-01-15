@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hey there, I’m Jan van Iperen
 
-<!--
-**janvaniperen/janvaniperen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help people connect in the ingredients industry, both old skool and new cool.
 
-Here are some ideas to get you started:
+[![Follow Me](https://img.shields.io/github/followers/janvaniperen?label=Follow&style=social)](https://github.com/janvaniperen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Chrome Extension development
+- 😄 Pronouns: Jan, Jay, ipears
+- 💬 Ask me about mailing lists
+- 📫 How to reach me: [@janvaniperen](https://twitter.com/janvaniperen)
+
+### My stats
+
+![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janvaniperen&show_icons=true&count_private=true&line_height=40)
